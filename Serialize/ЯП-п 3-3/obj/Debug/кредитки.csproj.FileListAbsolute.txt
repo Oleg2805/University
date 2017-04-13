@@ -1,6 +1,0 @@
-C:\Users\Oleg\Documents\Visual Studio 2015\Projects\старье\ЯП\mah balls\ЯП-п 3-3\ЯП-п 3-3\bin\Debug\ЯП-п 3-3.exe.config
-C:\Users\Oleg\Documents\Visual Studio 2015\Projects\старье\ЯП\mah balls\ЯП-п 3-3\ЯП-п 3-3\bin\Debug\ЯП-п 3-3.exe
-C:\Users\Oleg\Documents\Visual Studio 2015\Projects\старье\ЯП\mah balls\ЯП-п 3-3\ЯП-п 3-3\bin\Debug\ЯП-п 3-3.pdb
-C:\Users\Oleg\Documents\Visual Studio 2015\Projects\старье\ЯП\mah balls\ЯП-п 3-3\ЯП-п 3-3\obj\Debug\кредитки.csprojResolveAssemblyReference.cache
-C:\Users\Oleg\Documents\Visual Studio 2015\Projects\старье\ЯП\mah balls\ЯП-п 3-3\ЯП-п 3-3\obj\Debug\ЯП-п 3-3.exe
-C:\Users\Oleg\Documents\Visual Studio 2015\Projects\старье\ЯП\mah balls\ЯП-п 3-3\ЯП-п 3-3\obj\Debug\ЯП-п 3-3.pdb
